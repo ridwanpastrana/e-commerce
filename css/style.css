@@ -138,7 +138,7 @@ Responsive media queries
 	font-size: 24px;
 }
 .about-text p{
-	color: rgba(10, 10, 10, 0.823);
+	color: rgba(7, 7, 7, 0.823);
 }
 .abt-list li{
 	padding: 5px 0px;
@@ -146,7 +146,7 @@ Responsive media queries
 	font-weight: 400;
 }
 #portfolio{
-	background-color: #0c0c0c;
+	background-color: #f8f8f8;
 }
 .grid-padding{
 	padding: 0 8px;
@@ -237,7 +237,7 @@ blockquote {
 
 footer {
     padding: 40px 0;
-    background: #F2F3EB;
+    background: rgb(255, 253, 253);
 }
 
 .footer a {
