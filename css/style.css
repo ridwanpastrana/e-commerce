@@ -90,7 +90,7 @@ Responsive media queries
 .banner-text{
 	border-left: 5px solid #BE2525;
 	padding: 15px 40px;
-	color: #fff;
+	color: rgb(250, 246, 246);
 	margin-top: 170px;
 }
 .banner-text h2, .banner-text p{
@@ -121,7 +121,7 @@ Responsive media queries
 
 }
 #about{
-	background: url('../img/hjup.jpg') no-repeat;
+	background: url('../img/t.jpg') no-repeat;
 	background-size: cover;
 	margin-bottom: -3px;
 }
@@ -138,7 +138,7 @@ Responsive media queries
 	font-size: 24px;
 }
 .about-text p{
-	color: rgb(233, 14, 226);
+	color: rgba(10, 10, 10, 0.823);
 }
 .abt-list li{
 	padding: 5px 0px;
@@ -146,7 +146,7 @@ Responsive media queries
 	font-weight: 400;
 }
 #portfolio{
-	background-color: #fc07df;
+	background-color: #0c0c0c;
 }
 .grid-padding{
 	padding: 0 8px;
